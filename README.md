@@ -13,7 +13,7 @@ This script or github project is meant only for LINUX distributions as of now. T
 
 ###RUNNING###
 
-	NOTE : Follow this step only if installation process above is taken care of.
+	NOTE : Follow these steps only if installation process of the above is taken care of.
 
 	1. In your terminal, change directory to ###Project_name. 
 	   (probably like: cd ~/Downloads/###Project_name)
