@@ -1,0 +1,109 @@
+[H[2J[3J///////////////////////////////////////////////////////////////////////////////////
+##################################################
+#                  URLextractor                  #
+# Information Gathering & Website Reconnaissance #
+##################################################
+
+--------------------------------------------------
+[INFO] Date: 17/11/19 | Time: 16:25:17s
+--------------------------------------------------
+[INFO] ------TARGET info------
+[*] TARGET: https://www.microsoft.com/en-in/
+[*] Same target https://www.microsoft.com/en-in/ was previously analyzed 11 time(s)
+[*] TARGET IP: 40.113.200.201
+[ALERT] microsoft.com has a load balancer for IPv4 with the following IPs:
+[*] 13.77.161.179
+[*] 40.76.4.15
+[*] 40.112.72.205
+[*] 40.113.200.201
+[*] 104.215.148.63
+[*] DNS servers: ns1.msft.net.
+[*] TARGET server: Kestrel
+[*] CC: IE
+[*] Country: Ireland
+[*] RegionCode: L
+[*] RegionName: Leinster
+[*] City: Dublin
+[*] ASN: AS8075
+[*] BGP_PREFIX: 40.64.0.0/10
+[*] ISP: MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
+[INFO] SSL/HTTPS certificate detected
+[*] Issuer: issuer=C = US, ST = Washington, L = Redmond, O = Microsoft Corporation, OU = Microsoft IT, CN = Microsoft IT TLS CA 1
+[*] Subject: subject=CN = microsoft.com
+[INFO] DNS enumeration:
+[*] admin.microsoft.com 	 geo.portal.office.akadns.net. nonus_edge.portal.office.akadns.net. portal-office365-com.b-0004.b-msedge.net. b-0004.b-msedge.net. 13.107.6.156
+[*] ads.microsoft.com 	 azure.bingads.trafficmanager.net. edge-bingads-southeastasia.cloudapp.net. 207.46.229.217
+[*] api.microsoft.com 	 msdn.com. 104.215.148.63 40.76.4.15 40.112.72.205 40.113.200.201 13.77.161.179
+[*] beta.microsoft.com 	 connect.microsoft.akadns.net. 65.55.58.14
+[*] events.microsoft.com 	 mseventsprod.trafficmanager.net. mseventsaseprodsoutheastasia.mseventsprodasesoutheastasia.p.azurewebsites.net. waws-prod-sg1-6bf67d11.vip.p.azurewebsites.windows.net. waws-prod-sg1-6bf67d11.cloudapp.net. 52.187.172.227
+[*] ftp.microsoft.com 	 ftp.microsoft.akadns.net. 134.170.188.232
+[*] gateway.microsoft.com 	 131.107.16.143 131.107.16.142
+[*] go.microsoft.com 	 go.microsoft.com.edgekey.net. e11290.dspg.akamaiedge.net. 104.84.158.117
+[*] help.microsoft.com 	 help.msn.com. redirection.prod.cms.msn.com. redirection.prod.cms.msn.com.akadns.net. legacy-redirection-easia-prod-hp.cloudapp.net. 13.75.94.74
+[*] jobs.microsoft.com 	 m7983-11163.mail.icims.tools. 52.207.139.125
+[*] join.microsoft.com 	 167.220.71.16
+[*] login.microsoft.com 	 prda.aadg.msidentity.com. www.tm.a.prd.aadg.trafficmanager.net. 40.126.18.36 40.126.18.39 40.126.18.1 40.126.18.33 40.126.18.37 40.126.18.35 40.126.18.0 40.126.18.38
+[*] m.microsoft.com 	 origin.mobile.ms.akadns.net. 65.55.186.235
+[*] mail.microsoft.com 	 157.58.197.10 167.220.71.19
+[*] mail2.microsoft.com 	 131.107.115.215
+[*] mobile.microsoft.com 	 origin.mobile.ms.akadns.net. 65.55.186.235
+[*] my.microsoft.com 	 account.microsoft.com.edgekey.net. e9412.b.akamaiedge.net. 23.8.183.228
+[*] news.microsoft.com 	 msftstories.wpengine.com. 192.237.225.141
+[*] open.microsoft.com 	 openness.trafficmanager.net. openness.azurewebsites.net. waws-prod-bay-013.vip.azurewebsites.windows.net. waws-prod-bay-013.cloudapp.net. 23.99.65.65
+[*] outlook.microsoft.com 	 104.215.95.187 52.164.206.56
+[*] portfolio.microsoft.com 	 oneproject-prod-torus-global-m00.op.trafficmanager.net. oneproject-prod-torus-cin-000.centralindia.cloudapp.azure.com. 52.109.56.26
+[*] search.microsoft.com 	 search.microsoft.akadns.net. search.msn.com.edgesuite.net. a134.g.akamai.net. 23.56.101.82 23.56.101.10
+[*] stream.microsoft.com 	 reroute.microsoft.com. reroute443.trafficmanager.net. 40.113.200.201
+[*] support.microsoft.com 	 ev.support.microsoft.com.edgekey.net. e3843.g.akamaiedge.net. 184.84.107.94
+[*] tags.microsoft.com 	 tag.microsoft.com. tag.microsoft.com.nsatc.net. 207.46.113.76
+[*] test.microsoft.com 	 marketingsites-prod.microsoft.com. marketingsites-prod.rf.akadns.net. 168.63.149.202
+[INFO] Possible abuse mails are:
+[*] abuse@microsoft.com
+[*] report_spam@hotmail.com
+[INFO] NO PAC (Proxy Auto Configuration) file FOUND
+[ALERT] robots.txt file FOUND in http://microsoft.com/robots.txt
+[INFO] Checking for HTTP status codes recursively from http://microsoft.com/robots.txt
+[INFO] Status code 	 Folders 
+[INFO] Starting FUZZing in http://microsoft.com/FUzZzZzZzZz...
+[INFO] Status code 	 Folders 
+[*] 	 200 		 http://microsoft.com/download
+[*] 	 301 		 http://microsoft.com/news
+[ALERT] Look in the source code. It may contain passwords
+[ALERT] Content in http://microsoft.com/ AND http://www.microsoft.com/ is different
+[INFO] MD5 for http://microsoft.com/ is: 2d479c3021a5f68e5dc5f28edd4d84b7
+[INFO] MD5 for http://www.microsoft.com/ is: 5ad9061e9c915369e61e7ad9e3be584f
+[INFO] http://microsoft.com/ redirects to https://www.microsoft.com/en-in/
+[INFO] http://www.microsoft.com/ redirects to https://www.microsoft.com/en-in/
+[INFO] Links found from https://www.microsoft.com/en-in/ http://40.113.200.201/:
+[INFO] Shodan detected the following opened ports on 40.113.200.201:
+[INFO] ------VirusTotal SECTION------
+[INFO] VirusTotal passive DNS only stores address records. The following domains resolved to the given IP address:
+[INFO] Latest URLs hosted in this IP address detected by at least one URL scanner or malicious URL dataset:
+[INFO] Latest files that are not detected by any antivirus solution and were downloaded by VirusTotal from the IP address provided:
+[INFO] ------Alexa Rank SECTION------
+[INFO] Percent of Visitors Rank in Country:
+[INFO] Percent of Search Traffic:
+[INFO] Percent of Unique Visits:
+[INFO] Total Sites Linking In:
+[INFO] Useful links related to microsoft.com - 40.113.200.201:
+[*] https://www.virustotal.com/pt/ip-address/40.113.200.201/information/
+[*] https://www.hybrid-analysis.com/search?host=40.113.200.201
+[*] https://www.shodan.io/host/40.113.200.201
+[*] https://www.senderbase.org/lookup/?search_string=40.113.200.201
+[*] https://www.alienvault.com/open-threat-exchange/ip/40.113.200.201
+[*] http://pastebin.com/search?q=40.113.200.201
+[*] http://urlquery.net/search.php?q=40.113.200.201
+[*] http://www.alexa.com/siteinfo/microsoft.com
+[*] http://www.google.com/safebrowsing/diagnostic?site=microsoft.com
+[*] https://censys.io/ipv4/40.113.200.201
+[*] https://www.abuseipdb.com/check/40.113.200.201
+[*] https://urlscan.io/search/#40.113.200.201
+[*] https://github.com/search?q=40.113.200.201&type=Code
+[INFO] Useful links related to AS8075 - 40.64.0.0/10:
+[*] http://www.google.com/safebrowsing/diagnostic?site=AS:8075
+[*] https://www.senderbase.org/lookup/?search_string=40.64.0.0/10
+[*] http://bgp.he.net/AS8075
+[*] https://stat.ripe.net/AS8075
+[INFO] Date: 17/11/19 | Time: 16:26:11
+[INFO] Total time: 0 minute(s) and 54 second(s)
+###################################################################################

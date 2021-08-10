@@ -1,0 +1,164 @@
+
+
+########################################################################################
+
+ ____  _   _ ____      _                           _            
+|  _ \| \ | / ___|  __| |_   _ _ __ ___  _ __  ___| |_ ___ _ __ 
+| | | |  \| \___ \ / _` | | | | '_ ` _ \| '_ \/ __| __/ _ \ '__|
+| |_| | |\  |___) | (_| | |_| | | | | | | |_) \__ \ ||  __/ |   
+|____/|_| \_|____/ \__,_|\__,_|_| |_| |_| .__/|___/\__\___|_|   
+                                        |_|                                                                                               
+    
+	Date and time of execution :  17/11/2019 16:20:14
+
+########################################################################################
+
+
+Testing... : microsoft.com
+[verbose] Retrieved token: 7unxDdA7dVFPAsoS6VgRjbTvLf2kEvru7IVeGqVS5M6pTVJ7rmI7erksQzcyVx7c
+list index out of range
+
+
+####### Domain #######
+microsoft.com
+
+
+####### DNS Servers #######
+ns4.msft.net.<br (208.76.45.53) MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation United States
+ns1.msft.net.<br (208.84.0.53) MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation United States
+ns2.msft.net.<br (208.84.2.53) MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation United States
+ns3.msft.net.<br (193.221.113.53) MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation United Kingdom
+
+
+####### MX Records #######
+10 microsoft-com.mail.protection.outlook.com.<br (104.47.53.36) MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation United States
+
+
+####### Host Records (A) #######
+
+microsoft.com<br (40.113.200.201) MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation United States
+tide500.microsoft.com<br (tide500.microsoft.com) (131.107.0.70) MICROSOFT-CORP-AS - Microsoft Corporation United States
+msonlineppe2010.microsoft.com<br (msonlineppe2010.microsoft.com) (70.37.188.23) MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation United States
+ppeteam2010.microsoft.com<br (ppe2010my.microsoft.com) (70.37.188.29) MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation United States
+spteam2010.microsoft.com<br (70.37.188.22) MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation United States
+spsites2010.microsoft.com<br (70.37.188.22) MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation United States
+paspsites2010.microsoft.com<br (70.37.188.22) MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation United States
+ppepaspsites2010.microsoft.com<br (ppe2010my.microsoft.com) (70.37.188.29) MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation United States
+my2010.microsoft.com<br (70.37.188.22) MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation United States
+ppemy2010.microsoft.com<br (ppe2010my.microsoft.com) (70.37.188.29) MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation United States
+tide010.microsoft.com<br (tide010.microsoft.com) (131.107.76.154) MICROSOFT-CORP-AS - Microsoft Corporation United States
+tide110.microsoft.com<br (tide110.microsoft.com) (63.64.43.144) UUNET - MCI Communications Services, Inc. d/b/a Verizon Business United States
+tide510.microsoft.com<br (tide510.microsoft.com) (131.107.0.80) MICROSOFT-CORP-AS - Microsoft Corporation United States
+tide610.microsoft.com<br (tide610.microsoft.com) (94.245.127.10) MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation Ireland
+co1profile10.microsoft.com<br (co1profile10.microsoft.com) (65.55.57.124) MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation United States
+bayprofile10.microsoft.com<br (bayprofile10.microsoft.com) (64.4.17.21) MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation United States
+cmsbn1test10.microsoft.com<br (cmsbn1test10.microsoft.com) (134.170.22.62) MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation United States
+wwwco1test10.microsoft.com<br (wwwco1test10.microsoft.com) (65.55.21.18) MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation United States
+tide120.microsoft.com<br (tide120.microsoft.com) (207.46.89.12) MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation United States
+tide520.microsoft.com<br (tide520.microsoft.com) (131.107.0.90) MICROSOFT-CORP-AS - Microsoft Corporation United States
+tide620.microsoft.com<br (tide620.microsoft.com) (94.245.127.20) MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation Ireland
+tide20.microsoft.com<br (205.248.101.84) United States United States
+wwwco1test20.microsoft.com<br (wwwco1test20.microsoft.com) (65.55.48.229) MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation United States
+tide130.microsoft.com<br (tide130.microsoft.com) (213.199.128.157) MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation unknown
+tide530.microsoft.com<br (tide530.microsoft.com) (131.107.0.100) MICROSOFT-CORP-AS - Microsoft Corporation United States
+ocss30.microsoft.com<br (147.243.37.41) MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation United Kingdom
+wwwco1test30.microsoft.com<br (wwwco1test30.microsoft.com) (65.55.48.239) MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation United States
+tide540.microsoft.com<br (tide540.microsoft.com) (131.107.0.110) MICROSOFT-CORP-AS - Microsoft Corporation United States
+tide40.microsoft.com<br (tide513.microsoft.com) (131.107.0.83) MICROSOFT-CORP-AS - Microsoft Corporation United States
+wwwco1test40.microsoft.com<br (wwwco1test40.microsoft.com) (157.56.62.30) MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation United States
+tide150.microsoft.com<br (tide150.microsoft.com) (207.68.188.118) MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation United States
+tide550.microsoft.com<br (tide550.microsoft.com) (131.107.0.120) MICROSOFT-CORP-AS - Microsoft Corporation United States
+tide50.microsoft.com<br (tide50.microsoft.com) (207.68.188.50) MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation United States
+wwwco1test50.microsoft.com<br (wwwco1test50.microsoft.com) (157.56.62.50) MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation United States
+tide160.microsoft.com<br (tide160.microsoft.com) (131.107.8.41) MICROSOFT-CORP-AS - Microsoft Corporation United States
+wwwbn1test60.microsoft.com<br (wwwbn1test60.microsoft.com) (134.170.22.95) MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation United States
+www.cy1test60.microsoft.com<br (www.cy1test60.microsoft.com) (23.103.192.38) MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation United States
+cmscy1test60.microsoft.com<br (cmscy1test60.microsoft.com) (23.103.192.54) MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation United States
+cmsco2test60.microsoft.com<br (cmsco2test60.microsoft.com) (134.170.184.45) MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation United States
+wwwco2test60.microsoft.com<br (wwwco2test60.microsoft.com) (134.170.185.10) MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation United States
+cmsby2test60.microsoft.com<br (cmsby2test60.microsoft.com) (134.170.188.97) MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation United States
+wwwby2test60.microsoft.com<br (wwwby2test60.microsoft.com) (134.170.188.21) MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation United States
+tide70.microsoft.com<br (tide70.microsoft.com) (131.107.71.225) MICROSOFT-CORP-AS - Microsoft Corporation United States
+wwwco2test70.microsoft.com<br (wwwco2test70.microsoft.com) (134.170.184.255) MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation United States
+wwwby2test70.microsoft.com<br (wwwby2test70.microsoft.com) (134.170.188.31) MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation United States
+tide80.microsoft.com<br (tide80.microsoft.com) (131.107.37.244) MICROSOFT-CORP-AS - Microsoft Corporation United States
+wwwco2test80.microsoft.com<br (wwwco2test80.microsoft.com) (134.170.184.245) MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation United States
+wwwby2test80.microsoft.com<br (wwwby2test80.microsoft.com) (134.170.188.41) MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation United States
+tide90.microsoft.com<br (213.199.128.152) MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation unknown
+answers-ring0.microsoft.com<br (13.68.29.39) MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation United States
+pss-imc-01.microsoft.com<br (pss-imc-01.microsoft.com) (131.107.3.100) MICROSOFT-CORP-AS - Microsoft Corporation United States
+tide001.microsoft.com<br (tide001.microsoft.com) (131.107.76.143) MICROSOFT-CORP-AS - Microsoft Corporation United States
+duschy644macas001.microsoft.com<br (duschy644macas001.microsoft.com) (157.58.206.132) MICROSOFT-CORP-AS - Microsoft Corporation United States
+kspv201.microsoft.com<br (kspv201.microsoft.com) (207.46.119.164) MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation United States
+tide501.microsoft.com<br (tide501.microsoft.com) (131.107.0.71) MICROSOFT-CORP-AS - Microsoft Corporation United States
+kspv501.microsoft.com<br (kspv501.microsoft.com) (207.46.119.218) MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation United States
+co1vlsc01.microsoft.com<br (co1vlsc01.microsoft.com) (65.55.57.88) MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation United States
+bayvlsc01.microsoft.com<br (bayvlsc01.microsoft.com) (64.4.17.16) MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation United States
+co1profile01.microsoft.com<br (co1profile01.microsoft.com) (65.55.57.121) MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation United States
+bayprofile01.microsoft.com<br (bayprofile01.microsoft.com) (207.46.23.13) MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation United States
+reddaspg01.microsoft.com<br (reddaspg01.microsoft.com) (131.107.36.212) MICROSOFT-CORP-AS - Microsoft Corporation United States
+toolbar-prod-bn01.microsoft.com<br (20.41.62.11) MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation United States
+rap01.microsoft.com<br (rap01.microsoft.com) (131.107.0.4) MICROSOFT-CORP-AS - Microsoft Corporation United States
+saestp01.microsoft.com<br (147.243.6.16) MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation New Zealand
+reddas01.microsoft.com<br (reddas01.microsoft.com) (131.107.0.240) MICROSOFT-CORP-AS - Microsoft Corporation United States
+cmsbn1test01.microsoft.com<br (cmsbn1test01.microsoft.com) (134.170.22.53) MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation United States
+wwwco1test01.microsoft.com<br (wwwco1test01.microsoft.com) (65.55.21.9) MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation United States
+bn1vlsctest01.microsoft.com<br (bn1vlsctest01.microsoft.com) (134.170.22.43) MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation United States
+co1profiletest01.microsoft.com<br (co1profiletest01.microsoft.com) (65.55.21.48) MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation United States
+by2profiletest01.microsoft.com<br (by2profiletest01.microsoft.com) (207.46.22.12) MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation United States
+tide111.microsoft.com<br (tide111.microsoft.com) (63.64.43.145) UUNET - MCI Communications Services, Inc. d/b/a Verizon Business United States
+tide511.microsoft.com<br (tide511.microsoft.com) (131.107.0.81) MICROSOFT-CORP-AS - Microsoft Corporation United States
+tide611.microsoft.com<br (tide611.microsoft.com) (94.245.127.11) MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation Ireland
+co1profile11.microsoft.com<br (co1profile11.microsoft.com) (157.56.60.55) MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation United States
+bayprofile11.microsoft.com<br (bayprofile11.microsoft.com) (64.4.17.22) MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation United States
+cmsbn1test11.microsoft.com<br (cmsbn1test11.microsoft.com) (134.170.22.63) MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation United States
+wwwco1test11.microsoft.com<br (wwwco1test11.microsoft.com) (65.55.21.19) MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation United States
+tide121.microsoft.com<br (tide121.microsoft.com) (207.46.89.14) MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation United States
+tide521.microsoft.com<br (tide521.microsoft.com) (131.107.0.91) MICROSOFT-CORP-AS - Microsoft Corporation United States
+tide621.microsoft.com<br (tide621.microsoft.com) (94.245.127.21) MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation Ireland
+tide21.microsoft.com<br (205.248.101.85) United States United States
+wwwco1test21.microsoft.com<br (wwwco1test21.microsoft.com) (65.55.48.230) MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation United States
+tide131.microsoft.com<br (tide131.microsoft.com) (213.199.128.156) MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation unknown
+tide531.microsoft.com<br (tide531.microsoft.com) (131.107.0.101) MICROSOFT-CORP-AS - Microsoft Corporation United States
+wwwco1test31.microsoft.com<br (wwwco1test31.microsoft.com) (65.55.48.240) MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation United States
+tide541.microsoft.com<br (tide541.microsoft.com) (131.107.0.111) MICROSOFT-CORP-AS - Microsoft Corporation United States
+tide41.microsoft.com<br (tide514.microsoft.com) (131.107.0.84) MICROSOFT-CORP-AS - Microsoft Corporation United States
+wwwco1test41.microsoft.com<br (wwwco1test41.microsoft.com) (157.56.62.31) MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation United States
+tide151.microsoft.com<br (tide151.microsoft.com) (207.68.188.120) MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation United States
+tide551.microsoft.com<br (tide551.microsoft.com) (131.107.0.121) MICROSOFT-CORP-AS - Microsoft Corporation United States
+wwwbn1test51.microsoft.com<br (wwwbn1test51.microsoft.com) (134.170.22.87) MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation United States
+wwwco1test51.microsoft.com<br (wwwco1test51.microsoft.com) (157.56.62.51) MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation United States
+www.cy1test51.microsoft.com<br (www.cy1test51.microsoft.com) (23.103.192.31) MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation United States
+cmscy1test51.microsoft.com<br (cmscy1test51.microsoft.com) (23.103.192.29) MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation United States
+cmsco2test51.microsoft.com<br (cmsco2test51.microsoft.com) (134.170.184.36) MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation United States
+wwwco2test51.microsoft.com<br (wwwco2test51.microsoft.com) (134.170.185.19) MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation United States
+cmsby2test51.microsoft.com<br (cmsby2test51.microsoft.com) (134.170.188.88) MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation United States
+wwwby2test51.microsoft.com<br (wwwby2test51.microsoft.com) (134.170.188.12) MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation United States
+co2vlsctest51.microsoft.com<br (co2vlsctest51.microsoft.com) (134.170.184.170) MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation United States
+by2vlsctest51.microsoft.com<br (by2vlsctest51.microsoft.com) (134.170.188.61) MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation United States
+
+
+####### TXT Records #######
+"google-site-verification=8-zFCaUXhhPcvN29EVw2RvtASDCaDPQ02L1HJ8Om8I0"
+"atlassian-domain-verification=jbey7I2+3Wyl+PZ0QUCC6fCz2Gu5KO7GQPcy/0c4za7ebQxar/qqujJH4kZLVQHZ"
+"facebook-domain-verification=m54hfzczreqq2z1pf99y2p0kpwwpkv"
+"adobe-sign-verification=c1fea9b4cdd4df0d5778517f29e0934"
+"3lp8f84rbvcsohupiil488dlj9"
+"docusign=52998482-393d-46f7-95d4-15ac6509bfdd"
+"google-site-verification=yUE_SrjKKb4FHH1H04VWidfwstTGeS1FLx3Mcsnijjs"
+"v=spf1 include:_spf-a.microsoft.com include:_spf-b.microsoft.com include:_spf-c.microsoft.com include:_spf-ssg-a.microsoft.com include:spf-a.hotmail.com ip4:147.243.128.24 ip4:147.243.128.26 ip4:147.243.1.153 ip4:147.243.1.47 ip4:147.243.1.48 -all"
+"docusign=d5a3737c-c23c-4bd0-9095-d2ff621f2840"
+"facebook-domain-verification=gx5s19fp3o8aczby6a22clfhzm03as"
+"FbUF6DbkE+Aw1/wi9xgDi8KVrIIZus5v8L6tbIQZkGrQ/rVQKJi8CjQbBtWtE64ey4NJJwj5J65PIggVYNabdQ=="
+"facebook-domain-verification=bcas5uzlvu0s3mrw139a00os3o66wr"
+"google-site-verification=6P08Ow5E-8Q0m6vQ7FMAqAYIDprkVV8fUf_7hZ4Qvc8"
+"adobe-idp-site-verification=8aa35c528af5d72beb19b1bd3ed9b86d87ea7f24b2ba3c99ffcd00c27e9d809c"
+
+
+
+Retrieved Network mapping image? True (accessible in 'image_data')
+b'\x89PNG\r\n\x1a\n\x00\x00\x00\rIHDR\x00\x00\n\xd7'...
+
+
+
+Retrieved XLS hosts? False (accessible in 'xls_data')

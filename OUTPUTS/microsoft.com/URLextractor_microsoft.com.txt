@@ -1,0 +1,73 @@
+[3J[H[2J[1;32m##################################################
+#                  URLextractor                  #
+# Information Gathering & Website Reconnaissance #
+[1;32m##################################################
+
+[INFO] Date: 03/10/19 | Time: 22:38:47s
+[INFO] ------TARGET info------
+[*] TARGET: https://www.microsoft.com/en-in/
+[*] Same target https://www.microsoft.com/en-in/ was previously analyzed 4 time(s)
+[*] TARGET IP: 40.76.4.15
+[ALERT] microsoft.com has a load balancer for IPv4 with the following IPs:
+[*] 40.76.4.15
+[*] 13.77.161.179
+[*] 104.215.148.63
+[*] 40.113.200.201
+[*] 40.112.72.205
+[*] DNS servers: ns1.msft.net.
+[*] TARGET server: Kestrel
+[*] CC: 'Helvetica'
+[*] Country: body { height: 100%; margin: 0; } body { font-family: 'Helvetica Neue'
+[*] RegionCode: 'Segoe UI'
+[*] RegionName: Arial
+[*] City: sans-serif; color:#5c5c5c; background: #fafafa} a { text-decoration: none; color: #169ad5; } a:focus { outline: none; } a:hover { color: #878b97; text-decoration: none; } a:hover .button { background-color:#0E9FF4; } .buttonrow { float: left; width: 100%; } .customcontent { float: left; width: 100%; margin-bottom: 1em; } .button { float: left; font-size: 0.8em; background-color: #0985ce; color: #fff; padding: .7em 1em; border-radius: .25em; margin-right: 1.25em; margin-bottom:1em; } .greenbg { background-color: #71a865; } a:hover .greenbg { background-color: #80d483; } .content { margin-left: 330px; max-width: 450px;} h1 { font-size: 1.7em; } h1
+[*] ASN:
+[*] BGP_PREFIX:
+[*] ISP:
+[INFO] SSL/HTTPS certificate detected
+[*] Issuer: issuer=C = US, ST = Washington, L = Redmond, O = Microsoft Corporation, OU = Microsoft IT, CN = Microsoft IT TLS CA 1
+[*] Subject: subject=CN = microsoft.com
+[INFO] Possible abuse mails are:
+[*] abuse@microsoft.com
+[*] report_spam@hotmail.com
+[INFO] NO PAC (Proxy Auto Configuration) file FOUND
+[ALERT] robots.txt file FOUND in http://microsoft.com/robots.txt
+[INFO] Checking for HTTP status codes recursively from http://microsoft.com/robots.txt
+[INFO] Status code 	 Folders 
+[INFO] Starting FUZZing in http://microsoft.com/FUzZzZzZzZz...
+[INFO] Status code 	 Folders 
+[*] 	 200 		 http://microsoft.com/download
+[*] 	 200 		 http://microsoft.com/news
+[ALERT] Look in the source code. It may contain passwords
+[ALERT] Content in http://microsoft.com/ AND http://www.microsoft.com/ is different
+[INFO] MD5 for http://microsoft.com/ is: fc5b8c8b4d3ee8fd181226d4825c2a04
+[INFO] MD5 for http://www.microsoft.com/ is: db5626814a3a305b1437af3456ef5aa7
+[INFO] http://microsoft.com/ redirects to https://www.microsoft.com/en-in/
+[INFO] http://www.microsoft.com/ redirects to https://www.microsoft.com/en-in/
+[INFO] Links found from https://www.microsoft.com/en-in/ http://40.76.4.15/:
+[INFO] Shodan detected the following opened ports on 40.76.4.15:
+[INFO] ------VirusTotal SECTION------
+[INFO] VirusTotal passive DNS only stores address records. The following domains resolved to the given IP address:
+[INFO] Latest URLs hosted in this IP address detected by at least one URL scanner or malicious URL dataset:
+[INFO] Latest files that are not detected by any antivirus solution and were downloaded by VirusTotal from the IP address provided:
+[INFO] ------Alexa Rank SECTION------
+[INFO] Percent of Visitors Rank in Country:
+[INFO] Percent of Search Traffic:
+[INFO] Percent of Unique Visits:
+[INFO] Total Sites Linking In:
+[INFO] Useful links related to microsoft.com - 40.76.4.15:
+[*] https://www.virustotal.com/pt/ip-address/40.76.4.15/information/
+[*] https://www.hybrid-analysis.com/search?host=40.76.4.15
+[*] https://www.shodan.io/host/40.76.4.15
+[*] https://www.senderbase.org/lookup/?search_string=40.76.4.15
+[*] https://www.alienvault.com/open-threat-exchange/ip/40.76.4.15
+[*] http://pastebin.com/search?q=40.76.4.15
+[*] http://urlquery.net/search.php?q=40.76.4.15
+[*] http://www.alexa.com/siteinfo/microsoft.com
+[*] http://www.google.com/safebrowsing/diagnostic?site=microsoft.com
+[*] https://censys.io/ipv4/40.76.4.15
+[*] https://www.abuseipdb.com/check/40.76.4.15
+[*] https://urlscan.io/search/#40.76.4.15
+[*] https://github.com/search?q=40.76.4.15&type=Code
+[INFO] Date: 03/10/19 | Time: 22:39:41
+[INFO] Total time: 0 minute(s) and 54 second(s)

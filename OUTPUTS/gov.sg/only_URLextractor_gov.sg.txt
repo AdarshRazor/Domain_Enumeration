@@ -1,0 +1,31 @@
+[H[2J[3J///////////////////////////////////////////////////////////////////////////////////
+##################################################
+#                  URLextractor                  #
+# Information Gathering & Website Reconnaissance #
+##################################################
+
+--------------------------------------------------
+[INFO] Date: 14/10/19 | Time: 12:28:34s
+--------------------------------------------------
+[INFO] ------TARGET info------
+[*] TARGET: gov.sg
+[*] Same target gov.sg was previously analyzed 1 time(s)
+[*] TARGET IP: 203.208.234.3
+[INFO] NO load balancer detected for gov.sg...
+[*] DNS servers: ds.nic.net.sg.
+[*] TARGET server:
+[*] CC: SG
+[*] Country: Singapore
+[*] RegionCode:
+[*] RegionName:
+[*] City: Singapore
+[*] ASN: AS7473
+[*] BGP_PREFIX: 203.208.128.0/17
+[*] ISP: SINGTEL-AS-AP Singapore Telecommunications Ltd, SG
+[INFO] DNS enumeration:
+[INFO] Possible abuse mails are:
+[*] expansg@singtel.com
+[INFO] NO PAC (Proxy Auto Configuration) file FOUND
+[INFO] Starting FUZZing in http://gov.sg/FUzZzZzZzZz...
+[INFO] Status code 	 Folders 
+[INFO] NO passwords found in source code

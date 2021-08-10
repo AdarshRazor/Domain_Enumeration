@@ -1,0 +1,82 @@
+
+
+
+#################################################################
+
+                 ____        _     _ _     _   _____
+                / ___| _   _| |__ | (_)___| |_|___ / _ __
+                \___ \| | | | '_ \| | / __| __| |_ \| '__|
+                 ___) | |_| | |_) | | \__ \ |_ ___) | |
+                |____/ \__,_|_.__/|_|_|___/\__|____/|_|
+
+                # Coded By Ahmed Aboul-Ela - @aboul3la
+    
+	Date and time of execution :  27/10/2019 19:23:33
+#################################################################
+
+
+[-] Enumerating subdomains now for swiggy.com
+[-] Searching now in Baidu.. 
+[-] Searching now in Yahoo.. 
+[-] Searching now in Google.. 
+[-] Searching now in Bing.. 
+[-] Searching now in Ask.. 
+[-] Searching now in Netcraft.. 
+[-] Searching now in DNSdumpster.. 
+[-] Searching now in Virustotal.. 
+[-] Searching now in ThreatCrowd.. 
+[-] Searching now in SSL Certificates.. 
+[-] Searching now in PassiveDNS.. 
+[!] Error: Google probably now is blocking our requests 
+[~] Finished now the Google Enumeration ... 
+
+
+[-] Total Unique Subdomains Found: 46
+
+
+-> www.swiggy.com
+-> 48east-group.swiggy.com
+-> 6.swiggy.com
+-> admin-group.swiggy.com
+-> analytics.swiggy.com
+-> analytics-uat.swiggy.com
+-> api.swiggy.com
+-> api-endpoint.swiggy.com
+-> app.swiggy.com
+-> app-haproxy.swiggy.com
+-> app2.swiggy.com
+-> app3-haproxy.swiggy.com
+-> awsvpn.swiggy.com
+-> blog.swiggy.com
+-> bytes.swiggy.com
+-> careers.swiggy.com
+-> chkout.swiggy.com
+-> clientmetrics.swiggy.com
+-> dash.swiggy.com
+-> disc.swiggy.com
+-> everything.swiggy.com
+-> group.swiggy.com
+-> hackathon.swiggy.com
+-> haleem.swiggy.com
+-> httpswww.swiggy.com
+-> insightsvi.swiggy.com
+-> kiosk.swiggy.com
+-> launchpad.swiggy.com
+-> panela.swiggy.com
+-> partner.swiggy.com
+-> portal-endpoint.swiggy.com
+-> pos.swiggy.com
+-> profile.swiggy.com
+-> redirects-haproxy.swiggy.com
+-> restaurants.swiggy.com
+-> ride.swiggy.com
+-> rms.swiggy.com
+-> sanemobileuat.swiggy.com
+-> spns.swiggy.com
+-> staging.swiggy.com
+-> stores.swiggy.com
+-> stubs.swiggy.com
+-> swiggyagent.swiggy.com
+-> tracking-communication.swiggy.com
+-> workbench.swiggy.com
+-> xl.swiggy.com

@@ -1,0 +1,84 @@
+
+
+########################################################################################
+
+ ____  _   _ ____      _                           _            
+|  _ \| \ | / ___|  __| |_   _ _ __ ___  _ __  ___| |_ ___ _ __ 
+| | | |  \| \___ \ / _` | | | | '_ ` _ \| '_ \/ __| __/ _ \ '__|
+| |_| | |\  |___) | (_| | |_| | | | | | | |_) \__ \ ||  __/ |   
+|____/|_| \_|____/ \__,_|\__,_|_| |_| |_| .__/|___/\__\___|_|   
+                                        |_|                                                                                               
+    
+	Date and time of execution :  27/10/2019 19:23:20
+
+########################################################################################
+
+
+Testing... : swiggy.com
+[verbose] Retrieved token: e3ECT1BwbVsWZPBrldXkSwZDizrO9Udhxm8n6dQ6r61nQgiQ5XCj91PbfVSbPgK1
+list index out of range
+
+
+####### Domain #######
+swiggy.com
+
+
+####### DNS Servers #######
+ns-1502.awsdns-59.org.<br (205.251.197.222) AMAZON-02 - Amazon.com, Inc. United States
+ns-2013.awsdns-59.co.uk.<br (205.251.199.221) AMAZON-02 - Amazon.com, Inc. United States
+ns-214.awsdns-26.com.<br (205.251.192.214) AMAZON-02 - Amazon.com, Inc. United States
+ns-882.awsdns-46.net.<br (205.251.195.114) AMAZON-02 - Amazon.com, Inc. United States
+
+
+####### MX Records #######
+1 aspmx.l.google.com.<br (172.217.197.27) GOOGLE - Google LLC United States
+10 alt3.aspmx.l.google.com.<br (64.233.184.26) GOOGLE - Google LLC United States
+10 alt4.aspmx.l.google.com.<br (172.217.218.26) GOOGLE - Google LLC United States
+10 inbound-smtp.us-east-1.amazonaws.com.<br (176.32.101.207) AMAZON-02 - Amazon.com, Inc. United States
+5 alt1.aspmx.l.google.com.<br (64.233.186.27) GOOGLE - Google LLC United States
+5 alt2.aspmx.l.google.com.<br (74.125.193.26) GOOGLE - Google LLC United States
+
+
+####### Host Records (A) #######
+
+swiggy.com<br (45.60.67.150) INCAPSULA - Incapsula Inc United States
+haproxy-kibana.swiggy.com<br (ec2-52-221-66-50.ap-southeast-1.compute.amazonaws.com) (52.221.66.50) AMAZON-02 - Amazon.com, Inc. Singapore
+ride.swiggy.com<br (ec2-18-140-5-183.ap-southeast-1.compute.amazonaws.com) (18.140.5.183) AMAZON-02 - Amazon.com, Inc. Singapore
+remote.swiggy.com<br (ec2-52-221-63-6.ap-southeast-1.compute.amazonaws.com) (52.221.63.6) AMAZON-02 - Amazon.com, Inc. Singapore
+commengine-log.swiggy.com<br (ec2-52-221-68-146.ap-southeast-1.compute.amazonaws.com) (52.221.68.146) AMAZON-02 - Amazon.com, Inc. Singapore
+graylog.swiggy.com<br (ec2-13-250-34-218.ap-southeast-1.compute.amazonaws.com) (13.250.34.218) AMAZON-02 - Amazon.com, Inc. Singapore
+sandbox.cloud-menu.api.swiggy.com<br (ec2-54-169-210-106.ap-southeast-1.compute.amazonaws.com) (54.169.210.106) AMAZON-02 - Amazon.com, Inc. Singapore
+insightsvi.swiggy.com<br (ec2-52-74-254-35.ap-southeast-1.compute.amazonaws.com) (52.74.254.35) AMAZON-02 - Amazon.com, Inc. Singapore
+xl.swiggy.com<br (ec2-52-77-166-229.ap-southeast-1.compute.amazonaws.com) (52.77.166.229) AMAZON-02 - Amazon.com, Inc. Singapore
+awsvpn.swiggy.com<br (ec2-52-221-63-6.ap-southeast-1.compute.amazonaws.com) (52.221.63.6) AMAZON-02 - Amazon.com, Inc. Singapore
+admin-group.swiggy.com<br (ec2-35-154-18-171.ap-south-1.compute.amazonaws.com) (35.154.18.171) AMAZON-02 - Amazon.com, Inc. India
+commengine-es-monitor.swiggy.com<br (ec2-52-221-68-146.ap-southeast-1.compute.amazonaws.com) (52.221.68.146) AMAZON-02 - Amazon.com, Inc. Singapore
+graylog-es-monitor.swiggy.com<br (ec2-52-221-66-50.ap-southeast-1.compute.amazonaws.com) (52.221.66.50) AMAZON-02 - Amazon.com, Inc. Singapore
+stubs.swiggy.com<br (ec2-52-74-254-35.ap-southeast-1.compute.amazonaws.com) (52.74.254.35) AMAZON-02 - Amazon.com, Inc. Singapore
+bytes.swiggy.com<br (ec2-52-0-16-118.compute-1.amazonaws.com) (52.0.16.118) AMAZON-AES - Amazon.com, Inc. United States
+uat.swiggy.com<br (ec2-54-179-145-75.ap-southeast-1.compute.amazonaws.com) (54.179.145.75) AMAZON-02 - Amazon.com, Inc. Singapore
+analytics-uat.swiggy.com<br (ec2-13-229-51-132.ap-southeast-1.compute.amazonaws.com) (13.229.51.132) AMAZON-02 - Amazon.com, Inc. Singapore
+api-endpoint.swiggy.com<br (ec2-13-228-40-70.ap-southeast-1.compute.amazonaws.com) (13.228.40.70) AMAZON-02 - Amazon.com, Inc. Singapore
+ipay.swiggy.com<br (ec2-52-221-99-156.ap-southeast-1.compute.amazonaws.com) (52.221.99.156) AMAZON-02 - Amazon.com, Inc. Singapore
+app3-haproxy.swiggy.com<br (ec2-13-228-211-93.ap-southeast-1.compute.amazonaws.com) (13.228.211.93) AMAZON-02 - Amazon.com, Inc. Singapore
+portal-haproxy.swiggy.com<br (ec2-13-250-79-155.ap-southeast-1.compute.amazonaws.com) (13.250.79.155) AMAZON-02 - Amazon.com, Inc. Singapore
+redirects-haproxy.swiggy.com<br (ec2-13-250-41-61.ap-southeast-1.compute.amazonaws.com) (13.250.41.61) AMAZON-02 - Amazon.com, Inc. Singapore
+
+
+####### TXT Records #######
+"ntk9jrgma5mk8oenqdur7ar2kh"
+"google-site-verification=cGBPHloW-TsLO-jEDf5AohXAJ9FrfroOgW9Hja39BM4"
+"google-site-verification=_KnZKfBCu5MOw56pKjOaJnPTL_VHrqXvhXPEwyFe0Vc"
+"google-site-verification=YYPJnPRQJuf7lHTrarvPEnUlP9psDfSDcc5OGxe406Q"
+"google-site-verification=GyiEHd9M620-FkuqzlrfGvwiXUaghEgFrs_TsKEdaQY"
+"amazonses:FP3yvf7pW64huGBhQtx1t7Xb/ChIWyyf2P9GEViFJBw="
+"_globalsign-domain-verification=4-bp2KQB8Hi5rUcw1YfijlT-th19ohKAs6Wl9F1Awm"
+
+
+
+Retrieved Network mapping image? True (accessible in 'image_data')
+b'\x89PNG\r\n\x1a\n\x00\x00\x00\rIHDR\x00\x00\x0es'...
+
+
+
+Retrieved XLS hosts? False (accessible in 'xls_data')

@@ -1,0 +1,183 @@
+
+
+########################################################################################
+
+ ____  _   _ ____      _                           _            
+|  _ \| \ | / ___|  __| |_   _ _ __ ___  _ __  ___| |_ ___ _ __ 
+| | | |  \| \___ \ / _` | | | | '_ ` _ \| '_ \/ __| __/ _ \ '__|
+| |_| | |\  |___) | (_| | |_| | | | | | | |_) \__ \ ||  __/ |   
+|____/|_| \_|____/ \__,_|\__,_|_| |_| |_| .__/|___/\__\___|_|   
+                                        |_|                                                                                               
+    
+	Date and time of execution :  03/10/2019 22:34:44
+
+########################################################################################
+
+
+Testing... : microsoft.com
+[verbose] Retrieved token: ASFq9zLLVte6ss21C0XeZWJjv0Nn1IuY
+
+
+####### Domain #######
+microsoft.com
+
+
+####### DNS Servers #######
+ns4.msft.net.<br (208.76.45.53) AS8075 Microsoft Corporation United States
+ns1.msft.net.<br (208.84.0.53) AS8075 Microsoft Corporation United States
+ns2.msft.net.<br (208.84.2.53) AS8075 Microsoft Corporation United States
+ns3.msft.net.<br (193.221.113.53) AS8075 Microsoft Corporation United Kingdom
+
+
+####### MX Records #######
+10 microsoft-com.mail.protection.outlook.com.<br (104.47.54.36) AS8075 Microsoft Corporation United States
+
+
+####### Host Records (A) #######
+
+microsoft.com<br (40.113.200.201) AS8075 Microsoft Corporation United States
+spteam2010.microsoft.com<br (70.37.188.22) AS8075 Microsoft Corporation United States
+spsites2010.microsoft.com<br (70.37.188.22) AS8075 Microsoft Corporation United States
+paspsites2010.microsoft.com<br (70.37.188.22) AS8075 Microsoft Corporation United States
+my2010.microsoft.com<br (70.37.188.22) AS8075 Microsoft Corporation United States
+tide20.microsoft.com<br (205.248.101.84) United States United States
+ocss30.microsoft.com<br (147.243.37.41) AS6453 TATA COMMUNICATIONS (AMERICA) INC Finland
+tide90.microsoft.com<br (213.199.128.152) AS8075 Microsoft Corporation Europe
+answers-ring0.microsoft.com<br (13.68.29.39) AS8075 Microsoft Corporation United States
+toolbar-prod-bn01.microsoft.com<br (20.41.62.11) United States United States
+saestp01.microsoft.com<br (147.243.6.16) AS6453 TATA COMMUNICATIONS (AMERICA) INC Finland
+tide21.microsoft.com<br (205.248.101.85) United States United States
+careersppe1.microsoft.com<br (104.44.112.78) AS3598 Microsoft Corporation United States
+answers-ring1.microsoft.com<br (52.160.89.60) AS8075 Microsoft Corporation United States
+l2oquote-prod-ch1.microsoft.com<br (23.100.224.231) AS8075 Microsoft Corporation United States
+bayprofile01.microsoft.com<br (bayprofile01.microsoft.com) (207.46.23.13) AS8075 Microsoft Corporation United States
+bayprofile10.microsoft.com<br (bayprofile10.microsoft.com) (64.4.17.21) AS8075 Microsoft Corporation United States
+bayprofile11.microsoft.com<br (bayprofile11.microsoft.com) (64.4.17.22) AS8075 Microsoft Corporation United States
+bayvlsc01.microsoft.com<br (bayvlsc01.microsoft.com) (64.4.17.16) AS8075 Microsoft Corporation United States
+bn1vlsctest01.microsoft.com<br (bn1vlsctest01.microsoft.com) (134.170.22.43) AS8075 Microsoft Corporation United States
+by2profiletest01.microsoft.com<br (by2profiletest01.microsoft.com) (207.46.22.12) AS8075 Microsoft Corporation United States
+by2vlsctest51.microsoft.com<br (by2vlsctest51.microsoft.com) (134.170.188.61) AS8075 Microsoft Corporation United States
+cmsbn1test01.microsoft.com<br (cmsbn1test01.microsoft.com) (134.170.22.53) AS8075 Microsoft Corporation United States
+cmsbn1test10.microsoft.com<br (cmsbn1test10.microsoft.com) (134.170.22.62) AS8075 Microsoft Corporation United States
+cmsbn1test11.microsoft.com<br (cmsbn1test11.microsoft.com) (134.170.22.63) AS8075 Microsoft Corporation United States
+cmsby2test51.microsoft.com<br (cmsby2test51.microsoft.com) (134.170.188.88) AS8075 Microsoft Corporation United States
+cmsby2test60.microsoft.com<br (cmsby2test60.microsoft.com) (134.170.188.97) AS8075 Microsoft Corporation United States
+cmsby2test61.microsoft.com<br (cmsby2test61.microsoft.com) (134.170.188.98) AS8075 Microsoft Corporation United States
+cmsco2test51.microsoft.com<br (cmsco2test51.microsoft.com) (134.170.184.36) AS8075 Microsoft Corporation United States
+cmsco2test60.microsoft.com<br (cmsco2test60.microsoft.com) (134.170.184.45) AS8075 Microsoft Corporation United States
+cmsco2test61.microsoft.com<br (cmsco2test61.microsoft.com) (134.170.184.46) AS8075 Microsoft Corporation United States
+cmscy1test51.microsoft.com<br (cmscy1test51.microsoft.com) (23.103.192.29) AS8075 Microsoft Corporation United States
+cmscy1test60.microsoft.com<br (cmscy1test60.microsoft.com) (23.103.192.54) AS8075 Microsoft Corporation United States
+co1profile01.microsoft.com<br (co1profile01.microsoft.com) (65.55.57.121) AS8075 Microsoft Corporation United States
+co1profile10.microsoft.com<br (co1profile10.microsoft.com) (65.55.57.124) AS8075 Microsoft Corporation United States
+co1profile11.microsoft.com<br (co1profile11.microsoft.com) (157.56.60.55) AS8075 Microsoft Corporation United States
+co1profiletest01.microsoft.com<br (co1profiletest01.microsoft.com) (65.55.21.48) AS8075 Microsoft Corporation United States
+co1vlsc01.microsoft.com<br (co1vlsc01.microsoft.com) (65.55.57.88) AS8075 Microsoft Corporation United States
+co2vlsctest51.microsoft.com<br (co2vlsctest51.microsoft.com) (134.170.184.170) AS8075 Microsoft Corporation United States
+cusred043apc91.microsoft.com<br (cusred043apc91.microsoft.com) (131.107.128.14) AS3598 Microsoft Corporation United States
+duschy644macas001.microsoft.com<br (duschy644macas001.microsoft.com) (157.58.206.132) AS3598 Microsoft Corporation United States
+esbctpmb1.microsoft.com<br (esbctpmb1.microsoft.com) (64.4.13.62) AS8075 Microsoft Corporation United States
+kspv201.microsoft.com<br (kspv201.microsoft.com) (207.46.119.164) AS8075 Microsoft Corporation United States
+kspv501.microsoft.com<br (kspv501.microsoft.com) (207.46.119.218) AS8075 Microsoft Corporation United States
+lusred043apc91.microsoft.com<br (lusred043apc91.microsoft.com) (131.107.89.15) AS3598 Microsoft Corporation United States
+mfsa1.microsoft.com<br (mfsa1.microsoft.com) (65.55.180.42) AS8075 Microsoft Corporation United States
+msonlineppe2010.microsoft.com<br (msonlineppe2010.microsoft.com) (70.37.188.23) AS8075 Microsoft Corporation United States
+ppeteam2010.microsoft.com<br (ppe2010my.microsoft.com) (70.37.188.29) AS8075 Microsoft Corporation United States
+ppepaspsites2010.microsoft.com<br (ppe2010my.microsoft.com) (70.37.188.29) AS8075 Microsoft Corporation United States
+ppemy2010.microsoft.com<br (ppe2010my.microsoft.com) (70.37.188.29) AS8075 Microsoft Corporation United States
+pss-imc-01.microsoft.com<br (pss-imc-01.microsoft.com) (131.107.3.100) AS3598 Microsoft Corporation United States
+rap01.microsoft.com<br (rap01.microsoft.com) (131.107.0.4) AS3598 Microsoft Corporation United States
+reddas01.microsoft.com<br (reddas01.microsoft.com) (131.107.0.240) AS3598 Microsoft Corporation United States
+reddaspg01.microsoft.com<br (reddaspg01.microsoft.com) (131.107.36.212) AS3598 Microsoft Corporation United States
+seamnode1.microsoft.com<br (seamnode1.microsoft.com) (157.56.56.141) AS8075 Microsoft Corporation United States
+tide521.microsoft.com<br (sslvpn.microsoft.com) (131.107.0.91) AS3598 Microsoft Corporation United States
+staxnode1.microsoft.com<br (staxnode1.microsoft.com) (157.56.138.224) AS8075 Microsoft Corporation United States
+tide001.microsoft.com<br (tide001.microsoft.com) (131.107.76.143) AS3598 Microsoft Corporation United States
+tide010.microsoft.com<br (tide010.microsoft.com) (131.107.76.154) AS3598 Microsoft Corporation United States
+tide110.microsoft.com<br (tide110.microsoft.com) (63.64.43.144) AS701 MCI Communications Services, Inc. d/b/a Verizon Business United States
+tide111.microsoft.com<br (tide111.microsoft.com) (63.64.43.145) AS701 MCI Communications Services, Inc. d/b/a Verizon Business United States
+tide120.microsoft.com<br (tide120.microsoft.com) (207.46.89.12) AS8075 Microsoft Corporation United States
+tide121.microsoft.com<br (tide121.microsoft.com) (207.46.89.14) AS8075 Microsoft Corporation United States
+tide130.microsoft.com<br (tide130.microsoft.com) (213.199.128.157) AS8075 Microsoft Corporation Europe
+tide131.microsoft.com<br (tide131.microsoft.com) (213.199.128.156) AS8075 Microsoft Corporation Europe
+tide150.microsoft.com<br (tide150.microsoft.com) (207.68.188.118) AS8075 Microsoft Corporation United States
+tide151.microsoft.com<br (tide151.microsoft.com) (207.68.188.120) AS8075 Microsoft Corporation United States
+tide160.microsoft.com<br (tide160.microsoft.com) (131.107.8.41) AS3598 Microsoft Corporation United States
+tide161.microsoft.com<br (tide161.microsoft.com) (131.107.8.42) AS3598 Microsoft Corporation United States
+tide40.microsoft.com<br (tide40.microsoft.com) (131.107.0.83) AS3598 Microsoft Corporation United States
+tide41.microsoft.com<br (tide41.microsoft.com) (131.107.0.84) AS3598 Microsoft Corporation United States
+tide50.microsoft.com<br (tide50.microsoft.com) (207.68.188.50) AS8075 Microsoft Corporation United States
+tide500.microsoft.com<br (tide500.microsoft.com) (131.107.0.70) AS3598 Microsoft Corporation United States
+tide501.microsoft.com<br (tide501.microsoft.com) (131.107.0.71) AS3598 Microsoft Corporation United States
+tide510.microsoft.com<br (tide510.microsoft.com) (131.107.0.80) AS3598 Microsoft Corporation United States
+tide511.microsoft.com<br (tide511.microsoft.com) (131.107.0.81) AS3598 Microsoft Corporation United States
+tide520.microsoft.com<br (tide520.microsoft.com) (131.107.0.90) AS3598 Microsoft Corporation United States
+tide530.microsoft.com<br (tide530.microsoft.com) (131.107.0.100) AS3598 Microsoft Corporation United States
+tide531.microsoft.com<br (tide531.microsoft.com) (131.107.0.101) AS3598 Microsoft Corporation United States
+tide540.microsoft.com<br (tide540.microsoft.com) (131.107.0.110) AS3598 Microsoft Corporation United States
+tide541.microsoft.com<br (tide541.microsoft.com) (131.107.0.111) AS3598 Microsoft Corporation United States
+tide550.microsoft.com<br (tide550.microsoft.com) (131.107.0.120) AS3598 Microsoft Corporation United States
+tide551.microsoft.com<br (tide551.microsoft.com) (131.107.0.121) AS3598 Microsoft Corporation United States
+tide610.microsoft.com<br (tide610.microsoft.com) (94.245.127.10) AS8075 Microsoft Corporation Europe
+tide611.microsoft.com<br (tide611.microsoft.com) (94.245.127.11) AS8075 Microsoft Corporation Europe
+tide620.microsoft.com<br (tide620.microsoft.com) (94.245.127.20) AS8075 Microsoft Corporation Europe
+tide621.microsoft.com<br (tide621.microsoft.com) (94.245.127.21) AS8075 Microsoft Corporation Europe
+tide70.microsoft.com<br (tide70.microsoft.com) (131.107.71.225) AS3598 Microsoft Corporation United States
+tide80.microsoft.com<br (tide80.microsoft.com) (131.107.37.244) AS3598 Microsoft Corporation United States
+www.cy1test51.microsoft.com<br (www.cy1test51.microsoft.com) (23.103.192.31) AS8075 Microsoft Corporation United States
+www.cy1test60.microsoft.com<br (www.cy1test60.microsoft.com) (23.103.192.38) AS8075 Microsoft Corporation United States
+www.cy1test61.microsoft.com<br (www.cy1test61.microsoft.com) (23.103.192.37) AS8075 Microsoft Corporation United States
+wwwbn1test51.microsoft.com<br (wwwbn1test51.microsoft.com) (134.170.22.87) AS8075 Microsoft Corporation United States
+wwwbn1test60.microsoft.com<br (wwwbn1test60.microsoft.com) (134.170.22.95) AS8075 Microsoft Corporation United States
+wwwbn1test61.microsoft.com<br (wwwbn1test61.microsoft.com) (134.170.22.94) AS8075 Microsoft Corporation United States
+wwwby2test51.microsoft.com<br (wwwby2test51.microsoft.com) (134.170.188.12) AS8075 Microsoft Corporation United States
+wwwby2test60.microsoft.com<br (wwwby2test60.microsoft.com) (134.170.188.21) AS8075 Microsoft Corporation United States
+wwwby2test61.microsoft.com<br (wwwby2test61.microsoft.com) (134.170.188.22) AS8075 Microsoft Corporation United States
+wwwby2test70.microsoft.com<br (wwwby2test70.microsoft.com) (134.170.188.31) AS8075 Microsoft Corporation United States
+wwwby2test71.microsoft.com<br (wwwby2test71.microsoft.com) (134.170.188.32) AS8075 Microsoft Corporation United States
+wwwby2test80.microsoft.com<br (wwwby2test80.microsoft.com) (134.170.188.41) AS8075 Microsoft Corporation United States
+wwwby2test81.microsoft.com<br (wwwby2test81.microsoft.com) (134.170.188.42) AS8075 Microsoft Corporation United States
+wwwco1test01.microsoft.com<br (wwwco1test01.microsoft.com) (65.55.21.9) AS8075 Microsoft Corporation United States
+wwwco1test10.microsoft.com<br (wwwco1test10.microsoft.com) (65.55.21.18) AS8075 Microsoft Corporation United States
+wwwco1test11.microsoft.com<br (wwwco1test11.microsoft.com) (65.55.21.19) AS8075 Microsoft Corporation United States
+wwwco1test20.microsoft.com<br (wwwco1test20.microsoft.com) (65.55.48.229) AS8075 Microsoft Corporation United States
+wwwco1test21.microsoft.com<br (wwwco1test21.microsoft.com) (65.55.48.230) AS8075 Microsoft Corporation United States
+wwwco1test30.microsoft.com<br (wwwco1test30.microsoft.com) (65.55.48.239) AS8075 Microsoft Corporation United States
+wwwco1test31.microsoft.com<br (wwwco1test31.microsoft.com) (65.55.48.240) AS8075 Microsoft Corporation United States
+wwwco1test40.microsoft.com<br (wwwco1test40.microsoft.com) (157.56.62.30) AS8075 Microsoft Corporation United States
+wwwco1test41.microsoft.com<br (wwwco1test41.microsoft.com) (157.56.62.31) AS8075 Microsoft Corporation United States
+wwwco1test50.microsoft.com<br (wwwco1test50.microsoft.com) (157.56.62.50) AS8075 Microsoft Corporation United States
+wwwco1test51.microsoft.com<br (wwwco1test51.microsoft.com) (157.56.62.51) AS8075 Microsoft Corporation United States
+wwwco2test51.microsoft.com<br (wwwco2test51.microsoft.com) (134.170.185.19) AS8075 Microsoft Corporation United States
+wwwco2test60.microsoft.com<br (wwwco2test60.microsoft.com) (134.170.185.10) AS8075 Microsoft Corporation United States
+wwwco2test61.microsoft.com<br (wwwco2test61.microsoft.com) (134.170.185.9) AS8075 Microsoft Corporation United States
+wwwco2test70.microsoft.com<br (wwwco2test70.microsoft.com) (134.170.184.255) AS8075 Microsoft Corporation United States
+wwwco2test71.microsoft.com<br (wwwco2test71.microsoft.com) (134.170.184.254) AS8075 Microsoft Corporation United States
+wwwco2test80.microsoft.com<br (wwwco2test80.microsoft.com) (134.170.184.245) AS8075 Microsoft Corporation United States
+wwwco2test81.microsoft.com<br (wwwco2test81.microsoft.com) (134.170.184.244) AS8075 Microsoft Corporation United States
+
+
+####### TXT Records #######
+"docusign=d5a3737c-c23c-4bd0-9095-d2ff621f2840"
+"google-site-verification=8-zFCaUXhhPcvN29EVw2RvtASDCaDPQ02L1HJ8Om8I0"
+"adobe-idp-site-verification=8aa35c528af5d72beb19b1bd3ed9b86d87ea7f24b2ba3c99ffcd00c27e9d809c"
+"facebook-domain-verification=m54hfzczreqq2z1pf99y2p0kpwwpkv"
+"facebook-domain-verification=gx5s19fp3o8aczby6a22clfhzm03as"
+"google-site-verification=yUE_SrjKKb4FHH1H04VWidfwstTGeS1FLx3Mcsnijjs"
+"FbUF6DbkE+Aw1/wi9xgDi8KVrIIZus5v8L6tbIQZkGrQ/rVQKJi8CjQbBtWtE64ey4NJJwj5J65PIggVYNabdQ=="
+"adobe-sign-verification=c1fea9b4cdd4df0d5778517f29e0934"
+"docusign=52998482-393d-46f7-95d4-15ac6509bfdd"
+"v=spf1 include:_spf-a.microsoft.com include:_spf-b.microsoft.com include:_spf-c.microsoft.com include:_spf-ssg-a.microsoft.com include:spf-a.hotmail.com ip4:147.243.128.24 ip4:147.243.128.26 ip4:147.243.1.153 ip4:147.243.1.47 ip4:147.243.1.48 -all"
+"google-site-verification=6P08Ow5E-8Q0m6vQ7FMAqAYIDprkVV8fUf_7hZ4Qvc8"
+"atlassian-domain-verification=jbey7I2+3Wyl+PZ0QUCC6fCz2Gu5KO7GQPcy/0c4za7ebQxar/qqujJH4kZLVQHZ"
+"facebook-domain-verification=bcas5uzlvu0s3mrw139a00os3o66wr"
+
+
+
+Retrieved Network mapping image? True (accessible in 'image_data')
+b'\x89PNG\r\n\x1a\n\x00\x00\x00\rIHDR\x00\x00\x0b5'...
+
+
+
+Retrieved XLS hosts? True (accessible in 'xls_data')
+b'PK\x03\x04\x14\x00\x00\x00\x08\x00\x98\x88COD\x9a\x16\x0b\x11\x1a'...

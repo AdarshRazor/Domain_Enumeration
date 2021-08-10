@@ -1,0 +1,24 @@
+
+  _  __                 _                
+ | |/ /                | |   4.1.1            
+ | ' / _ __   ___   ___| | ___ __  _   _ 
+ |  < | '_ \ / _ \ / __| |/ / '_ \| | | |
+ | . \| | | | (_) | (__|   <| |_) | |_| |
+ |_|\_\_| |_|\___/ \___|_|\_\ .__/ \__, |
+                            | |     __/ |
+                            |_|    |___/ 
+
++ checking for virustotal subdomains: SKIP
+	VirusTotal API_KEY not found
++ checking for wildcard: YES
+{
+    "content_length": "",
+    "status_code": 302
+}
++ checking for zonetransfer: NO
++ resolving target: YES
+- scanning for subdomain...
+
+Ip Address	Status	Type	Domain Name			Server
+----------	------	----	-----------			------
+01                               02                               03                               1                               10                               11                               12                               13

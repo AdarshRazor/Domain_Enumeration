@@ -1,0 +1,39 @@
+[H[2J[3J///////////////////////////////////////////////////////////////////////////////////
+##################################################
+#                  URLextractor                  #
+# Information Gathering & Website Reconnaissance #
+##################################################
+
+--------------------------------------------------
+[INFO] Date: 27/10/19 | Time: 19:23:59s
+--------------------------------------------------
+[INFO] ------TARGET info------
+[*] TARGET: https://www.swiggy.com/
+[*] TARGET IP: 45.60.65.150
+[ALERT] swiggy.com has a load balancer for IPv4 with the following IPs:
+[*] 45.60.65.150
+[*] 45.60.67.150
+[*] DNS servers: ns-1502.awsdns-59.org.
+[*] TARGET server:
+[*] CC: SG
+[*] Country: Singapore
+[*] RegionCode:
+[*] RegionName:
+[*] City: Singapore
+[*] ASN: AS19551
+[*] BGP_PREFIX: 45.60.65.0/24
+[*] ISP: INCAPSULA - Incapsula Inc, US
+[INFO] SSL/HTTPS certificate detected
+[*] Issuer: issuer=C = US, ST = Arizona, L = Scottsdale, O = "GoDaddy.com, Inc.", OU = http://certs.godaddy.com/repository/, CN = Go Daddy Secure Certificate Authority - G2
+[*] Subject: subject=C = IN, ST = Karnataka, L = Bangalore, O = Sri Harsha Majety, CN = *.swiggy.com
+[INFO] DNS enumeration:
+[*] ads.swiggy.com 	 makemesuper-1378912376.ap-southeast-1.elb.amazonaws.com. 52.220.4.220 54.169.110.189 13.228.191.244
+[*] api.swiggy.com 	 api-haproxy.swiggy.com. 52.77.219.225 13.250.35.113 52.74.225.71 13.228.40.70 52.221.202.250 54.255.217.133
+[*] app.swiggy.com 	 3z369bq.x.incapdns.net. 45.60.67.150
+[*] blog.swiggy.com 	 swiggy.wpengine.com. 104.155.220.25
+[*] go.swiggy.com 	 portal-haproxy.swiggy.com. 18.138.66.8 18.138.97.99 52.74.210.126 18.136.233.205 13.250.79.155 3.0.66.133 18.138.140.250 52.221.130.14
+[INFO] Possible abuse mails are:
+[*] abuse@swiggy.com
+[INFO] NO PAC (Proxy Auto Configuration) file FOUND
+[INFO] Starting FUZZing in http://swiggy.com/FUzZzZzZzZz...
+[INFO] Status code 	 Folders 
